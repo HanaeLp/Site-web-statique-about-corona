@@ -35,7 +35,7 @@ nav{
     width: 78px;
     margin: -56px 0;
     cursor: pointer;
-    MARGIN-LEFT: 39px;
+    text-align: center;
 }
 
 nav ul{
@@ -83,7 +83,8 @@ ul li a {
     text-decoration: #3c396c;
     color: #3c396c;
     font-family: Lucida Sans;
-    padding:8px;
+    padding:1%;
+    padding-left: 70px;
     display:inline-block;
 }
 
@@ -132,4 +133,6 @@ hgroup{
 #B .fa{
     margin-right: 8px;
 }
-
+ul li{
+    list-style-type: none;
+}
